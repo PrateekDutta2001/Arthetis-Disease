@@ -1,11 +1,16 @@
 # Arthetis-Disease
 
 **Early warning signs of arthritis**
-Morning joint stiffness. Joint stiffness when you first wake up is often a sign of the early stages of arthritis. 
-Joint swelling. Swollen joints are a sign that your arthritis is worsening. 
-Fever. Rheumatoid arthritis can cause a low-grade fever. 
-Numbness and tingling. ...
-Chronic fatigue.
+
+> Morning joint stiffness. Joint stiffness when you first wake up is often a sign of the early stages of arthritis. 
+
+> Joint swelling. Swollen joints are a sign that your arthritis is worsening. 
+
+> Fever. Rheumatoid arthritis can cause a low-grade fever. 
+
+> Numbness and tingling. 
+
+> Chronic fatigue.
 
 **Other Detail:**
 
